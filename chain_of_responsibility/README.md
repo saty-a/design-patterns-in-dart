@@ -91,3 +91,6 @@ void main() {
   */
 }
 ```
+### UML Diagram
+
+![Screenshot 2024-09-09 at 3 47 18 PM](https://github.com/user-attachments/assets/9abba9d9-70eb-4d3f-8dd1-9a6473c3ce47)
